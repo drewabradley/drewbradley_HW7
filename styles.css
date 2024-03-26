@@ -8,3 +8,11 @@ body {
     color: red;
     margin-left: 4px;
   }
+
+  .tooltip {
+    display: inline-block;
+    margin-left: 5px;
+    border-bottom: 1px dotted black;
+    cursor: help;
+    font-style: normal;
+  }
